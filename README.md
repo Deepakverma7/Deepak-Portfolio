@@ -57,6 +57,10 @@ Automatically capture details from incoming emails and add them to an Excel tabl
 **Status:**
 Completed (Personal Project)
 
+#### Workflow Screenshot
+
+<img width="748" height="499" alt="image" src="https://github.com/user-attachments/assets/89500003-3606-4e95-bbd3-bac29decd2ba" />
+
 ---
 
 ### 3. Power Automate - Microsoft Forms to Excel Automation
