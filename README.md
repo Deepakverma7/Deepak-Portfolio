@@ -33,7 +33,7 @@ Completed (Personal Project)
 
 <img width="949" height="585" alt="image" src="https://github.com/user-attachments/assets/7d656fa5-c3f5-434b-8630-9db1085d9fe6" />
 
-![Email to Excel Flow](FlowScreenshot.png)
+Flow1_ExcelDataEntry.png
 
 ----
 
@@ -61,6 +61,8 @@ Completed (Personal Project)
 
 <img width="748" height="499" alt="image" src="https://github.com/user-attachments/assets/89500003-3606-4e95-bbd3-bac29decd2ba" />
 
+Flow2_EmailToExcel.png
+
 ---
 
 ### 3. Power Automate - Microsoft Forms to Excel Automation
@@ -83,6 +85,12 @@ Automatically store Microsoft Forms responses into an Excel table for centralize
 **Status:**
 Completed (Personal Project)
 
+#### Workflow Screenshot
+
+<img width="1346" height="1063" alt="image" src="https://github.com/user-attachments/assets/9fb7d645-e0a1-486c-a3d1-40e785e742b9" />
+
+Flow3_FormsToExcel.png
+
 ---
 
 ### 4. Power Automate - Excel to Microsoft Teams Notification
@@ -104,6 +112,12 @@ Automatically send a Microsoft Teams channel notification whenever a selected Ex
 
 **Status:**
 Completed (Personal Project)
+
+#### Workflow Screenshot
+
+<img width="477" height="467" alt="image" src="https://github.com/user-attachments/assets/a6eec8bd-a2f4-47ce-91bc-e0f215d237d8" />
+
+Flow4_ExcelToTeams.png
 
 ---
 
@@ -128,5 +142,11 @@ Automatically send a Microsoft Teams notification and an email whenever a new Sh
 
 **Status:**
 Completed (Personal Project)
+
+#### Workflow Screenshot
+
+<img width="706" height="656" alt="image" src="https://github.com/user-attachments/assets/b51fc293-df0c-4322-8b78-b08374ff1757" />
+
+Flow5_SharePointNotification.png
 
 More projects will be added as I continue my learning journey
