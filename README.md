@@ -29,6 +29,12 @@ Automate the process of adding data into an existing Excel table using Microsoft
 **Status:**
 Completed (Personal Project)
 
+#### Workflow Screenshot
+
+<img width="949" height="585" alt="image" src="https://github.com/user-attachments/assets/7d656fa5-c3f5-434b-8630-9db1085d9fe6" />
+
+![Email to Excel Flow](FlowScreenshot.png)
+
 ----
 
 ### 2. Power Automate - Email to Excel Automation
