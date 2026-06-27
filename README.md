@@ -29,6 +29,8 @@ Automate the process of adding data into an existing Excel table using Microsoft
 **Status:**
 Completed (Personal Project)
 
+----
+
 ### 2. Power Automate - Email to Excel Automation
 
 **Objective:**
