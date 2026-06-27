@@ -6,7 +6,7 @@ I am a Senior Analyst with experience in quality monitoring and business operati
 
 This repository contains my hands-on projects and learning exercises.
 
-## Projects
+## Power Automate Projects
 
 ### 1. Power Automate - Excel Data Entry Automation
 
@@ -27,7 +27,7 @@ Automate the process of adding data into an existing Excel table using Microsoft
 * Workflow Testing
 
 **Status:**
-Completed (Personal Learning Project)
+Completed (Personal Project)
 
 ### 2. Power Automate - Email to Excel Automation
 
@@ -47,7 +47,7 @@ Automatically capture details from incoming emails and add them to an Excel tabl
 * Workflow Automation
 
 **Status:**
-Completed (Personal Learning Project)
+Completed (Personal Project)
 
 ---
 
@@ -69,7 +69,7 @@ Automatically store Microsoft Forms responses into an Excel table for centralize
 * Automated Data Collection
 
 **Status:**
-Completed (Personal Learning Project)
+Completed (Personal Project)
 
 ---
 
@@ -91,7 +91,7 @@ Automatically send a Microsoft Teams channel notification whenever a selected Ex
 * Automated Notifications
 
 **Status:**
-Completed (Personal Learning Project)
+Completed (Personal Project)
 
 ---
 
@@ -115,6 +115,6 @@ Automatically send a Microsoft Teams notification and an email whenever a new Sh
 * Multi-step Workflow
 
 **Status:**
-Completed (Personal Learning Project)
+Completed (Personal Project)
 
 More projects will be added as I continue my learning journey
