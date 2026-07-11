@@ -1,4 +1,4 @@
-# Sales Dashboard
+
 # Power BI Sales Dashboard
 
 Created an interactive Sales Dashboard using Power BI to analyze sales performance and business insights.
