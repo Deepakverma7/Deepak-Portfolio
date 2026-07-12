@@ -15,7 +15,7 @@ Created an interactive Sales Dashboard using Power BI to analyze sales performan
 - Interactive filters and visuals
 
 ## Status
-Completed - Personal Learning Project
+Completed - Personal Project
 
 Dashboard Preview
 
