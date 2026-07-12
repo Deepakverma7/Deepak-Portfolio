@@ -21,4 +21,4 @@ Dashboard Preview
 
 <img width="2017" height="1109" alt="Sales Performance Dashboard" src="https://github.com/user-attachments/assets/14720157-2775-4bf6-b3f2-e802523d7f0a" />
 
-![Sales Dashboard](Sales Performance Dashboard.png)
+Sales Dashboard.png
