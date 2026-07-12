@@ -6,7 +6,7 @@ I am a Senior Analyst with experience in quality monitoring and business operati
 
 This repository contains my hands-on projects and learning exercises.
 
-## Power Automate Projects
+## Power Automate Personal Projects
 
 ### 1. Power Automate - Excel Data Entry Automation
 
@@ -149,4 +149,23 @@ Completed (Personal Project)
 
 Flow5_SharePointNotification.png
 
-More projects will be added as I continue my learning journey
+------------------------------------------------------------------------------
+
+## 📊 Power BI Personal Projects
+
+### 1. Power BI Sales Dashboard
+- Interactive Sales Dashboard built using Power BI.
+- Tools: Power BI, Power Query, DAX, Excel.
+- Status: Completed – Personal Project.
+
+### 2. Power BI HR Analytics Dashboard
+- HR Analytics Dashboard for employee attrition and workforce insights.
+- Tools: Power BI, Power Query, DAX, Excel.
+- Status: Completed – Personal Project.
+
+### 3. Power BI Quality Scores Dashboard
+- Quality Scores Dashboard for monitoring quality performance and operational insights.
+- Tools: Power BI, Power Query, DAX, Excel.
+- Status: Completed – Personal Project.
+  
+  More projects will be added as I continue my Analytics journey
